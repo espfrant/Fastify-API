@@ -1,5 +1,5 @@
 # CRUD API with Fastify
- Create API template with Fastify
+ Create CRUD-API template with Fastify
 
 ## Installation
 
